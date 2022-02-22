@@ -6,6 +6,7 @@ public class CalcExecutor {
 		Calculator c = new Calculator();
 		System.out.println("Addition result is:" + c.add(4, 5));
 		System.out.println("Subtraction result is:" + c.sub(9, 5));
+		System.out.println("Multiply result is:" + c.mul(9, 5));
 		
 	}
 
